@@ -9,4 +9,6 @@ Wow. I didn't know I could do this.  But it all worked.
   1. Then I pushed the local repo to GitHub.
   1. It successfull pushed upsteam.
   1. Now I am creating this file on github and intend to pull it from local.
+
+  Lets see if I can pull this down.  But first create a pull request for Wow.md.
   
