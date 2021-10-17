@@ -19,3 +19,8 @@ Wow. I didn't know I could do this.  But it all worked.
   1. First it failed to fetch or pull.  Because it was looking to bring down a branch master.  Only then did I notice that my local branch was still called master; while the new repo I created on GitHut had its default as 'main'.
   1. I renamed the local master to main very easily with Kracken.  Then I tried a pulled it failed because it was looking for a upstream master.  I wen to .git/refs/remotes/origin and renamed the branch to main.  This allowed me to get my push/pull working.
   
+
+### Remote Updates
+
+Adding some changes and saving as a seperate branch.  To see what we see as a pull request.  
+Commit messages. Don't have any option for  fancy editing.
